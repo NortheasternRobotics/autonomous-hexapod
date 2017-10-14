@@ -1,4 +1,4 @@
-# autonomous-quadropod
-Repo for the autonomous quadropod team of NEU Robotics
+# autonomous-hexapod
+Repo for the autonomous hexapod team of NEU Robotics
 
 test
